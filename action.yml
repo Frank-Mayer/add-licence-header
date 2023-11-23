@@ -1,0 +1,5 @@
+name: Add Licence Header
+description: Add a license header to all source files
+runs:
+  using: "node20"
+  main: "dist/index.js"
